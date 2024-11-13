@@ -38,3 +38,4 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 
 ### 📊Power Bi Report
 ##### 1. Employee Satisfaction Attrition Report
+<img width="638" alt="Screenshot 2024-11-13 224107" src="https://github.com/user-attachments/assets/19ec6bb3-17ef-40d3-b9e0-0e5d3a798184">
