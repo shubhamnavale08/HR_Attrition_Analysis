@@ -11,7 +11,7 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 + **SQL** : Data Analysis
 + **PowerBI** : Creating Reports
 + **Power Query**
-  **Database** :- Excel
+##### Database :- Excel
   
 ### ✅️Objectives and Key Insights:
  + **Total Employees** : Displayed the total headcount to understand the scope of analysis.
