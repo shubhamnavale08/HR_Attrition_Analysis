@@ -38,21 +38,23 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 + **Out of the employees who left the organization, 462 employees were far from the workplace**.
 
 ### 📊Power Bi Report
-##### 1. Employee Satisfaction Attrition Report
+##### 1. Employee Satisfaction Attrition Report :
 <img width="800" alt="Screenshot 2024-11-13 225931" src="https://github.com/user-attachments/assets/f6a395bb-14d7-42c2-9d0c-8be1761999b6">
 
-##### 2. Job Role Attrition
+##### 2. Job Role Attrition Report :
 <img width="800" alt="Screenshot 2024-11-13 225951" src="https://github.com/user-attachments/assets/e2d441ce-5410-4bfb-8e9a-238c6cba446e">
 
-#### 3. Age Bucket Attrition
+#### 3. Age Bucket Attrition Report :
 <img width="800" alt="Screenshot 2024-11-13 225649" src="https://github.com/user-attachments/assets/32d67c19-1dc6-4161-a0f5-c2e583ab32d9">
 
 ### 📊Excel Report
+**Hr Attrition Dashboard**
+**How Employees left our organization**
 <img width="940" alt="Screenshot 2024-11-13 232036" src="https://github.com/user-attachments/assets/5895ae47-7fcf-4785-9548-ccedabba5063">
 
-##### 1. Female Attration
+##### 1. Female Attration Report :
 <img width="940" alt="Screenshot 2024-11-13 232412" src="https://github.com/user-attachments/assets/df033dcd-2e14-4988-8a6e-89efca07c914">
 
-##### 2. Male Attration
+##### 2. Male Attration Report :
 <img width="940" alt="Screenshot 2024-11-13 232622" src="https://github.com/user-attachments/assets/bbeff501-1ce7-445f-abf5-c2012dc2b2b0">
 
