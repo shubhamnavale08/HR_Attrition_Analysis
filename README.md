@@ -13,7 +13,7 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 + **Power Query**
 #### Database :- Excel
   
-### ✅️Objectives and Key Insights:
+### ⏬️Objectives and Key Insights:
  + **Total Employees** : Displayed the total headcount to understand the scope of analysis.
  + **Attrition Rate** : Calculated the overall attrition rate, highlighting the extent of turnover.
  + **Attrition by Job Satisfaction** : Unveiled the direct impact of job satisfaction on employee retention.
