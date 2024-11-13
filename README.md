@@ -47,6 +47,12 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 #### 3. Age Bucket Attrition
 <img width="800" alt="Screenshot 2024-11-13 225649" src="https://github.com/user-attachments/assets/32d67c19-1dc6-4161-a0f5-c2e583ab32d9">
 
-### Excel Report
-<img width="937" alt="Screenshot 2024-11-13 232036" src="https://github.com/user-attachments/assets/5895ae47-7fcf-4785-9548-ccedabba5063">
+### 📊Excel Report
+<img width="940" alt="Screenshot 2024-11-13 232036" src="https://github.com/user-attachments/assets/5895ae47-7fcf-4785-9548-ccedabba5063">
+
+##### 1. Female Attration
+<img width="940" alt="Screenshot 2024-11-13 232412" src="https://github.com/user-attachments/assets/df033dcd-2e14-4988-8a6e-89efca07c914">
+
+##### 2. Male Attration
+<img width="940" alt="Screenshot 2024-11-13 232622" src="https://github.com/user-attachments/assets/bbeff501-1ce7-445f-abf5-c2012dc2b2b0">
 
