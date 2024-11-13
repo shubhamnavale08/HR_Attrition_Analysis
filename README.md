@@ -35,3 +35,6 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 + **63% of attrition was by male employees**.
 + **413 employees who left were high performers**
 + **Out of the employees who left the organization, 462 employees were far from the workplace**.
+
+### 📊Power Bi Report
+##### 1. Employee Satisfaction Attrition Report
