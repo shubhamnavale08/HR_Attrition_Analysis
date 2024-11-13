@@ -38,10 +38,10 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 
 ### 📊Power Bi Report
 ##### 1. Employee Satisfaction Attrition Report
-<img width="638" alt="Screenshot 2024-11-13 224107" src="https://github.com/user-attachments/assets/19ec6bb3-17ef-40d3-b9e0-0e5d3a798184">
+<img width="709" alt="Screenshot 2024-11-13 225931" src="https://github.com/user-attachments/assets/f6a395bb-14d7-42c2-9d0c-8be1761999b6">
 
 ##### 2. Job Role Attrition
-<img width="641" alt="Screenshot 2024-11-13 225303" src="https://github.com/user-attachments/assets/86102966-0577-4ad5-8647-7acdb9629373">
+<img width="709" alt="Screenshot 2024-11-13 225951" src="https://github.com/user-attachments/assets/e2d441ce-5410-4bfb-8e9a-238c6cba446e">
 
 #### 3. Age Bucket Attrition
 <img width="706" alt="Screenshot 2024-11-13 225649" src="https://github.com/user-attachments/assets/32d67c19-1dc6-4161-a0f5-c2e583ab32d9">
