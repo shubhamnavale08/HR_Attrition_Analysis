@@ -8,7 +8,7 @@ In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic 
 
 ### ⚒️Visualization Tools
 + **Excel** : Creating Reports,Data Cleaning
-+ **SQL** : Data Analysis
++ **MySQL** : Querie Analysis
 + **PowerBI** : Creating Reports
 + **Power Query**
 #### Database :- Excel
