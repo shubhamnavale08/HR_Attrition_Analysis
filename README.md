@@ -1,4 +1,4 @@
-# HR_Atrition_Analysis
+# HR_Attrition_Analysis
 
 ### ✅️Introduction:
 The HR Attrition Analysis project aims to uncover patterns and insights behind employee departures by utilizing data analysis techniques. By understanding the reasons for attrition, identifying risk factors, and making data-driven decisions, this project seeks to improve employee retention rates within an organization.
