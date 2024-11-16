@@ -7,11 +7,11 @@ The HR Attrition Analysis project aims to uncover patterns and insights behind e
 In this HR Attrition Analysis project, I utilized Power BI to deliver a dynamic and insightful exploration of employee attrition within an organization. The project identifies key trends and underlying factors contributing to employee turnover, offering valuable insights for strategic HR decision-making.
 
 ### ⚒️Visualization Tools
-+ **Excel** : Creating Reports,Data Cleaning
-+ **SQL** : Data Analysis
-+ **PowerBI** : Creating Reports
++ **Excel** 
++ **SQL** 
++ **PowerBI** 
 + **Power Query**
-+ #### Database :- Excel
++ **Database :- Excel**
   
 ### ⏬️Objectives and Key Insights:
  + **Total Employees** : Displayed the total headcount to understand the scope of analysis.
